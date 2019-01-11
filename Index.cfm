@@ -1,5 +1,5 @@
 <cfinclude template="login/logincheck.cfm">
 <cfinclude template="Header.cfm">
-<cfinclude template="footer.cfm">
+<cfinclude template="footer.cfm">njukjdfsfgdsgdfx
 
 					
